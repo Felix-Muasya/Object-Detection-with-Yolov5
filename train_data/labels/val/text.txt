@@ -1,0 +1,1 @@
+the validation number in the form of an numpy array for the machine to read
